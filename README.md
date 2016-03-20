@@ -7,11 +7,11 @@
 
 #### Lesson Schedule
 
-|Class                  |Day|Date      |Lesson                                                   |
-|-----------------------|---|----------|---------------------------------------------------------|
+|Class                  |Day|Date     |Lesson                                                   |
+|-----------------------|---|---------|---------------------------------------------------------|
 | [Lesson 1](./lesson01)| M |3/21/2016|Intro GA, Intro Data Science, Install Party, Intro Python|
 |               Lesson 2| W |3/23/2016|TBD|
-|               Lesson 3| M |3/28/2016|TBD|
+| [Lesson 3](./lesson03)| M |3/28/2016|Intro Math, Stats, Probability|
 |               Lesson 4| W |3/30/2016|TBD|
 |               Lesson 5| M | 4/4/2016|TBD|
 |               Lesson 6| W | 4/6/2016|TBD|
