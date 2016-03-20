@@ -12,9 +12,9 @@
 - **8:30 - 9:00** (30 minutes) [Intro Python][5]
 - **9:00 - 9:30** (30 minutes) [Intro NumPy][6]
 
-[1]: notebooks/course-overview.ipynb
-[2]: notebooks/intro-data-science.ipynb
-[3]: notebooks/install-party.ipynb
-[4]: notebooks/intro-command-line.ipynb
-[5]: notebooks/intro-python.ipynb
-[6]: notebooks/intro-numpy.ipynb
+[1]: ../notebooks/course-overview.ipynb
+[2]: ../notebooks/intro-data-science.ipynb
+[3]: ../notebooks/install-party.ipynb
+[4]: ../notebooks/intro-command-line.ipynb
+[5]: ../notebooks/intro-python.ipynb
+[6]: ../notebooks/intro-numpy.ipynb
