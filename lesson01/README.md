@@ -15,7 +15,8 @@
 	- Ensure all apps are installed and all packages are up to date.
 	- If you're on top of it, do a problem from [Project Euler](https://projecteuler.net/problem=1).
 - **8:30 - 8:45** (15 minutes) [Intro Command Line][4]
-- **8:45 - 9:30** (45 minutes) [Intro Python][5]
+- **8:45 - 9:00** (15 minutes) [Intro Git][4]
+- **9:00 - 9:30** (30 minutes) [Intro Python][6]
 
 ## Homework
 
@@ -29,4 +30,5 @@
 [2]: ../notebooks/intro-data-science.ipynb
 [3]: ../notebooks/install-party.ipynb
 [4]: ../notebooks/intro-command-line.ipynb
-[5]: ../notebooks/intro-python.ipynb
+[5]: ../notebooks/intro-git.ipynb
+[6]: ../notebooks/intro-python.ipynb

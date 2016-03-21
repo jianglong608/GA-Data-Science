@@ -1,4 +1,4 @@
-# Lesson 2
+# Lesson 3
 
 ## Lesson Plan
 
@@ -8,7 +8,6 @@
 - **8:00 - 8:10** (10 minutes) Break
 - **8:15 - 9:00** (30 minutes) [In Class Assignment][4]
 - **9:00 - 9:30** (30 minutes) [Review Assignment][5]
-
 
 [1]: notebooks/vector-matrix
 [2]: notebooks/calculus

@@ -5,12 +5,18 @@
 - Al Johri ([Twitter](https://twitter.com/aljohri) | [LinkedIn](https://www.linkedin.com/in/aljohri) | [Github](https://github.com/AlJohri))
 - Mahmoud Lababidi ([Twitter](https://twitter.com/lababidi) | [LinkedIn](https://www.linkedin.com/in/mahmoudlababidi) | [Github](https://github.com/lababidi))
 
+#### Exit Ticket
+
+Please help us improve the class by filling out exit tickets after each lesson.
+
+http://goo.gl/forms/85T0wDN22a
+
 #### Lesson Schedule
 
-|Class                  |Day|Date     |Lesson                                                     |
-|-----------------------|---|---------|-----------------------------------------------------------|
-| [Lesson 1](./lesson01)| M |3/21/2016|Intro GA, Data Science, Install Party, Command Line, Python|
-|               Lesson 2| W |3/23/2016|Git, Numpy, Matplotlib, Pandas|
+|Class                  |Day|Date     |Lesson                                                          |
+|-----------------------|---|---------|----------------------------------------------------------------|
+| [Lesson 1](./lesson01)| M |3/21/2016|Intro GA, Data Science, Install Party, Command Line, Git, Python|
+| [Lesson 2](./lesson02)| W |3/23/2016|Numpy, Matplotlib, Pandas|
 | [Lesson 3](./lesson03)| M |3/28/2016|Intro Math, Stats, Probability|
 |               Lesson 4| W |3/30/2016|Exploratory Data Analysis|
 |               Lesson 5| M | 4/4/2016|Intro ML, Stochastic Gradient Descent, Linear Regression|
