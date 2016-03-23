@@ -106,6 +106,7 @@ in my `zshrc` file.
 
 1. Uninstall Sublime Text 3
 2. Run the following commands.
+
    ```
    brew cask
    brew tap caskroom/versions
