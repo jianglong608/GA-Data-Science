@@ -1,11 +1,9 @@
 # Lesson 1
 
-## Objective
+## Learning Objectives
 
 - What is Data Science?
 - Basic Command Line
-- Basic Git
-- Review Python
 
 ## Lesson Plan
 
