@@ -4,10 +4,10 @@
 
 Students should be able to:
 
-	- use the basic features of git
-		- pull changes from an upstream repository
-		- push homeworks to the "workspace" folder in their fork
-	- use basic python constructs
+- use the basic features of git
+	- pull changes from an upstream repository
+	- push homeworks to the "workspace" folder in their fork
+- use basic python constructs
 
 ## Lesson Plan
 
