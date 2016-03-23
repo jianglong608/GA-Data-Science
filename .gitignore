@@ -63,4 +63,9 @@ target/
 
 # Mac
 .DS_Store
+
+# Vim
 *~
+
+# RevealJS Slides
+*.slides.html
