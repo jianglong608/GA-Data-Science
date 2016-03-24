@@ -5,6 +5,8 @@
 - Al Johri ([Twitter](https://twitter.com/aljohri) | [LinkedIn](https://www.linkedin.com/in/aljohri) | [Github](https://github.com/AlJohri))
 - Mahmoud Lababidi ([Twitter](https://twitter.com/lababidi) | [LinkedIn](https://www.linkedin.com/in/mahmoudlababidi) | [Github](https://github.com/lababidi))
 
+hi class
+
 #### Exit Ticket
 
 Please help us improve the class by filling out exit tickets after each lesson.
