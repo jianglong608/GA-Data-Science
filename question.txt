@@ -1,0 +1,7 @@
+the command 'git pull origin master' what is master here for? local master or origin/master?
+also what about git push, how do I know what branch do I pull and which to merge with?
+
+how to read merge conflict file?
+
+I'm going to office hour today
+
