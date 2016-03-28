@@ -1,16 +1,23 @@
 # Lesson 3
 
+## Learning Objectives
+
+Students should be able to:
+
+- use basic python constructs
+
 ## Lesson Plan
 
-- **6:30 - 7:00** (30 minutes) [Vector and Matrix math][1]
-- **7:00 - 7:30** (30 minutes) [Calculus basics][2]
-- **7:30 - 8:00** (30 minutes) [Statistics and probability][3]
-- **8:00 - 8:10** (10 minutes) Break
-- **8:15 - 9:00** (30 minutes) [In Class Assignment][4]
-- **9:00 - 9:30** (30 minutes) [Review Assignment][5]
+- (30 minutes) Review
+- (30 minutes) [Intro Python][1]
+- (10 minutes) Break
+- (60 minutes) Continue Intro Python
+- (10 minutes) Break
+- (60 minutes) Continue Intro Python, Potentially start [Intro NumPy][2]
 
-[1]: notebooks/vector-matrix
-[2]: notebooks/calculus
-[3]: notebooks/stats-prob
-[4]: notebooks/math-assignment
-[5]: notebooks/math-solution
+[1]: ../notebooks/intro-python.ipynb
+[2]: ../notebooks/intro-numpy.ipynb
+
+## Homework
+
+- TBD

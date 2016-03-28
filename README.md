@@ -19,18 +19,18 @@ http://goo.gl/forms/85T0wDN22a
 |Class                  |Day|Date     |Lesson                                                          |
 |-----------------------|---|---------|----------------------------------------------------------------|
 | [Lesson 1](./lesson01)| M |3/21/2016|Intro GA, Data Science, Install Party, Command Line|
-| [Lesson 2](./lesson02)| W |3/23/2016|Git, Python, Numpy, Matplotlib|
-| [Lesson 3](./lesson03)| M |3/28/2016|Intro Math, Stats, Probability|
-|               Lesson 4| W |3/30/2016|Exploratory Data Analysis, Pandas|
-|               Lesson 5| M | 4/4/2016|Intro ML, Stochastic Gradient Descent, Linear Regression|
-|               Lesson 6| W | 4/6/2016|Logistic Regression, Basic Model Evaluation|
+| [Lesson 2](./lesson02)| W |3/23/2016|Git, Python|
+| [Lesson 3](./lesson03)| M |3/28/2016|Python|
+| [Lesson 4](./lesson04)| W |3/30/2016|Intro Numpy, Math, Stats, Probability|
+|               Lesson 5| M | 4/4/2016|TBD|
+|               Lesson 6| W | 4/6/2016|TBD|
 |               Lesson 7| M |4/11/2016|TBD|
-|               Lesson 8| W |4/13/2016|KNN|
-|               Lesson 9| M |4/18/2016|Timeseries|
-|              Lesson 10| W |4/20/2016|NLP I: Text Classification|
-|              Lesson 11| M |4/25/2016|NLP II|
+|               Lesson 8| W |4/13/2016|TBD|
+|               Lesson 9| M |4/18/2016|TBD|
+|              Lesson 10| W |4/20/2016|TBD|
+|              Lesson 11| M |4/25/2016|TBD|
 |              Lesson 12| W |4/27/2016|TBD|
-|              Lesson 13| M | 5/2/2016|Dimensionality Reduction, Clustering, K-Means|
+|              Lesson 13| M | 5/2/2016|TBD|
 |              Lesson 14| W | 5/4/2016|TBD|
 |              Lesson 15| M | 5/9/2016|TBD|
 |              Lesson 16| W |5/11/2016|TBD|
