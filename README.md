@@ -21,8 +21,8 @@ http://goo.gl/forms/85T0wDN22a
 | [Lesson 1](./lesson01)| M |3/21/2016|Intro GA, Data Science, Install Party, Command Line|
 | [Lesson 2](./lesson02)| W |3/23/2016|Git, Python|
 | [Lesson 3](./lesson03)| M |3/28/2016|Python|
-| [Lesson 4](./lesson04)| W |3/30/2016|Intro Numpy, Math, Stats, Probability|
-|               Lesson 5| M | 4/4/2016|TBD|
+| [Lesson 4](./lesson04)| W |3/30/2016|Python, Intro Numpy|
+|               Lesson 5| M | 4/4/2016|Math, Stats, Probability|
 |               Lesson 6| W | 4/6/2016|TBD|
 |               Lesson 7| M |4/11/2016|TBD|
 |               Lesson 8| W |4/13/2016|TBD|

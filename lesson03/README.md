@@ -13,11 +13,10 @@ Students should be able to:
 - (10 minutes) Break
 - (60 minutes) Continue Intro Python
 - (10 minutes) Break
-- (60 minutes) Continue Intro Python, Potentially start [Intro NumPy][2]
+- (60 minutes) Continue Intro Python
 
 [1]: ../notebooks/intro-python.ipynb
-[2]: ../notebooks/intro-numpy.ipynb
 
 ## Homework
 
-- TBD
+- Work on exercises within Intro Python notebook.
