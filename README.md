@@ -5,9 +5,6 @@
 - Al Johri ([Twitter](https://twitter.com/aljohri) | [LinkedIn](https://www.linkedin.com/in/aljohri) | [Github](https://github.com/AlJohri))
 - Mahmoud Lababidi ([Twitter](https://twitter.com/lababidi) | [LinkedIn](https://www.linkedin.com/in/mahmoudlababidi) | [Github](https://github.com/lababidi))
 
-hi class
-hi class again
-
 #### Exit Ticket
 
 Please help us improve the class by filling out exit tickets after each lesson.
@@ -22,9 +19,9 @@ http://goo.gl/forms/85T0wDN22a
 | [Lesson 2](./lesson02)| W |3/23/2016|Git, Python|
 | [Lesson 3](./lesson03)| M |3/28/2016|Python|
 | [Lesson 4](./lesson04)| W |3/30/2016|Python, Intro Numpy|
-|               Lesson 5| M | 4/4/2016|Math, Stats, Probability|
-|               Lesson 6| W | 4/6/2016|TBD|
-|               Lesson 7| M |4/11/2016|TBD|
+| [Lesson 5](./lesson05)| M | 4/4/2016|Numpy, Math, Linear Algebra|
+| [Lesson 6](./lesson06)| W | 4/6/2016|Exloratory Data Analysis, Pandas, Matplotlib|
+|               Lesson 7| M |4/11/2016|Intro ML, Gradient Descent, Linear Regression|
 |               Lesson 8| W |4/13/2016|TBD|
 |               Lesson 9| M |4/18/2016|TBD|
 |              Lesson 10| W |4/20/2016|TBD|

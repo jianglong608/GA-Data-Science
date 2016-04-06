@@ -10,4 +10,4 @@
 
 ## Homework
 
-- Homework will be posted later this evening on Slack.
+- homework1.ipynb in the homework folder
